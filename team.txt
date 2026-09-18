@@ -1,0 +1,7 @@
+GitHub Group Activity
+
+Team Lead: Harshith
+Member 2: darshan ck
+Member 3: bharadwaj r
+
+This project demonstrates collaborative work using Git and GitHub.
